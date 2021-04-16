@@ -1,14 +1,39 @@
 {
     "name": "Part-IB Notes",
-    "short_name": "Part-IB Notes",
+    "short_name": "Notes",
     "display": "standalone",
     "start_url": "/",
     "theme_color": "#205CA5",
     "background_color": "#0072ce",
     "icons": [
       {
-        "src": "notes_icon.png",
-        "sizes": "120x120",
+        "src": "images/notes_icon_128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "images/notes_icon_144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "images/notes_icon_152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "images/notes_icon_192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "images/notes_icon_256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "images/notes_icon_512.png",
+        "sizes": "512x512",
         "type": "image/png"
       }
     ]
