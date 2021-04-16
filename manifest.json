@@ -1,0 +1,15 @@
+{
+    "name": "Part-IB Notes",
+    "short_name": "Part-IB Notes",
+    "display": "standalone",
+    "start_url": "/",
+    "theme_color": "#205CA5",
+    "background_color": "#0072ce",
+    "icons": [
+      {
+        "src": "notes_icon.png",
+        "sizes": "120x120",
+        "type": "image/png"
+      }
+    ]
+  }
