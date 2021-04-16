@@ -2,9 +2,9 @@
     "name": "Part-IB Notes",
     "short_name": "Notes",
     "display": "standalone",
-    "start_url": "/",
+    "start_url": "https://caojamie.github.io/Cam-Compsci-Part-IB-Notes/#/",
     "theme_color": "#205CA5",
-    "background_color": "#0072ce",
+    "background_color": "#ffffff",
     "icons": [
       {
         "src": "images/notes_icon_128.png",
