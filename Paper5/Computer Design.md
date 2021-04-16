@@ -2,7 +2,7 @@
 
 ## Verilog
 
-The following code example illustrate the common practice for SystemVerilog.
+The following code example illustrate the common practice for SystemVerilog
 
 ```verilog
 //a standard module
