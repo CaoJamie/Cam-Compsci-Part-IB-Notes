@@ -2,7 +2,7 @@
 
 ## Verilog
 
-The following code example illustrate the common practice for SystemVerilog
+This is in fact, more of ECAD Practical lab's content. But this was also included in the exam paper as one question, therefore we always include this. The following code example illustrate the common practice for SystemVerilog
 
 ```verilog
 //a standard module
@@ -11,7 +11,7 @@ module modules(
   input A,
   //declare output
   output B
-);
+	);
   
 	//intermediate wire
 	wire C,D,E,F;
